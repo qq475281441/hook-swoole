@@ -1,0 +1,24 @@
+{
+  "name": "laon/hook-swoole",
+  "type": "library",
+  "keywords": [
+    "swoole",
+    "saber"
+  ],
+  "description": "",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "laon",
+      "email": "475281441@qq.com"
+    }
+  ],
+  "require": {
+    "php": "*"
+  },
+  "autoload": {
+    "files": [
+      "functions.php"
+    ]
+  }
+}
