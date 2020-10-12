@@ -3,3 +3,8 @@
 
 
 `比如saber扩展`
+
+
+运行
+
+`composer require laon/hook-swoole`  安装
